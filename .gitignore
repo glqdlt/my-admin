@@ -1,0 +1,4 @@
+.idea
+admin-web-platform/.mvn
+ng-admin/node_modules
+ng-admin/dist
